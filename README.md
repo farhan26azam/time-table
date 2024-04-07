@@ -1,8 +1,20 @@
-# React + Vite
+# Vitejs Time Table App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple time table app built with Vitejs and Tailwindcss.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Clone the repository and run the following command to install the dependencies.
+```bash
+npm install
+```
+
+## Usage
+To run the app in development mode, run the following command.
+
+```bash
+npm run dev
+```
+
+
+
