@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --green-theme: #0AA36E;
+    --blue-theme: #58C3FF
+}
+
+body{
+    font-family: Bahnschrift, sans-serif;
+}
+
+@font-face {
+    font-family: 'bahnschrift';
+    src: url("../src/fonts/bahnschrift/bahnschrift.ttf");
+    font-weight: 400;
+    font-style: normal;
+}
